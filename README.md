@@ -1,9 +1,9 @@
 # GitHub App Access Token
 
-This is a go module which provides you a client, which can generate access token for your Github App.
+This is a go module that provides you with a client, which can generate an access token for your GitHub App.
 
 ## What's in the box?
-You can retrive an Github Application Token from the library.
+You can retrieve a GitHub Application Token from the library.
 
 ## Installation Guidelines
 1. To install the `github-app-token` package, you first need to have
@@ -14,9 +14,9 @@ You can retrive an Github Application Token from the library.
    ```
 2. Import it in your code:
 
-```go
-import "github.com/sumeetpatil/github-app-token"
-```
+   ```go
+   import "github.com/sumeetpatil/github-app-token"
+   ```
 
 ## Usage
 You can follow this example for your usage -
